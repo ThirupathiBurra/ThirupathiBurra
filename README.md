@@ -37,10 +37,10 @@ My key projects include **Audit IQ (AI Compliance Auditor), AI-Powered KYC & Fra
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
 
-<!-- Backend / APIs -->
-<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="45"/>
+<!-- Backend -->
 <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="45"/>
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="45"/>
 
 <!-- Data Science & ML -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
@@ -51,24 +51,33 @@ My key projects include **Audit IQ (AI Compliance Auditor), AI-Powered KYC & Fra
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/>
 
-<!-- GenAI & LLMs -->
+<!-- GenAI / LLM -->
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain-logo.svg" width="75"/>
-
-<!-- OpenAI -->
+<img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain-logo.svg" width="70"/>
 <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="45"/>
 
-<!-- Vector Databases / RAG -->
+<!-- Vector DB / RAG -->
 <img src="https://cdn.worldvectorlogo.com/logos/pinecone-1.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/static/img/chroma.svg" width="45"/>
 
-<!-- AI Agents / Concepts -->
+<!-- AI / Agents (Icons8 – stable) -->
 <img src="https://img.icons8.com/color/48/artificial-intelligence.png"/>
 <img src="https://img.icons8.com/color/48/robot.png"/>
+<img src="https://img.icons8.com/color/48/brain.png"/>
 <img src="https://img.icons8.com/color/48/workflow.png"/>
 <img src="https://img.icons8.com/color/48/decision-making.png"/>
-<img src="https://img.icons8.com/color/48/brain.png"/>
 
+<br/><br/>
+
+<!-- Tools -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45"/>
+
+</div>
 
 <br/><br/>
 
