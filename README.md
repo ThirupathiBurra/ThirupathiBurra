@@ -56,11 +56,11 @@ My key projects include **Audit IQ (AI Compliance Auditor), AI-Powered KYC & Fra
 <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain-logo.svg" width="70"/>
 <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="45"/>
 
-<!-- Vector DB / RAG -->
+<!-- Vector Databases / RAG -->
 <img src="https://cdn.worldvectorlogo.com/logos/pinecone-1.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/static/img/chroma.svg" width="45"/>
 
-<!-- AI / Agents (Icons8 – stable) -->
+<!-- AI / Agents (Icons8 – Stable) -->
 <img src="https://img.icons8.com/color/48/artificial-intelligence.png"/>
 <img src="https://img.icons8.com/color/48/robot.png"/>
 <img src="https://img.icons8.com/color/48/brain.png"/>
@@ -79,19 +79,7 @@ My key projects include **Audit IQ (AI Compliance Auditor), AI-Powered KYC & Fra
 
 </div>
 
-<br/><br/>
-
-<!-- Tools -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45"/>
-
-</div>
-
----
+----
 
 <h2 align="center">⚡ GitHub Stats</h2>
 
