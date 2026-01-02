@@ -54,17 +54,21 @@ My key projects include **Audit IQ (AI Compliance Auditor), AI-Powered KYC & Fra
 <!-- GenAI & LLMs -->
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain-logo.svg" width="75"/>
-<img src="https://raw.githubusercontent.com/openai/openai-brand/main/assets/openai-logo.svg" width="45"/>
 
-<!-- RAG & Vector DBs -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pinecone.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/chromadb.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/faiss.svg" width="45"/>
+<!-- OpenAI -->
+<img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="45"/>
 
-<!-- AI Agents -->
+<!-- Vector Databases / RAG -->
+<img src="https://cdn.worldvectorlogo.com/logos/pinecone-1.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/static/img/chroma.svg" width="45"/>
+
+<!-- AI Agents / Concepts -->
 <img src="https://img.icons8.com/color/48/artificial-intelligence.png"/>
 <img src="https://img.icons8.com/color/48/robot.png"/>
 <img src="https://img.icons8.com/color/48/workflow.png"/>
+<img src="https://img.icons8.com/color/48/decision-making.png"/>
+<img src="https://img.icons8.com/color/48/brain.png"/>
+
 
 <br/><br/>
 
